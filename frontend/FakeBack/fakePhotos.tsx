@@ -1,0 +1,32 @@
+export const fakePhotos = [
+    {
+        img:'https://www.jokesforfunny.com/wp-content/uploads/2021/06/0596bdb89b60fe771acd2f5972a9d3e3-905x1200.jpg',
+    },
+    {
+        img:'https://i.chzbgr.com/full/9245446400/hE641FDC6/red-dead-meme-of-arthur-morgan-with-glowing-eyes',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80',
+    },
+    {
+        img:'https://www.nickiswift.com/img/gallery/red-hot-chili-peppers-anthony-kiedis-has-heartbreaking-news/intro-1621264832.jpg',
+    },
+    {
+        img:'https://i.pinimg.com/736x/07/98/d3/0798d31c17aad82df67a6f27b6f51b74--human-teeth-the-dentist.jpg',
+    },
+    {
+        img:'https://play-lh.googleusercontent.com/SZpyRU_FB9qpQsO8uXRrQcC1RZ-HFvqzmB2aaJ-QdK-PA_Rg-bx90onXgHUcwZpg18k',
+    },
+    {
+        img:'https://pbs.twimg.com/media/EBoPwoFX4AENAyP.jpg',
+    },
+    {
+        img:'https://www.cortguitars.com/_DATA/editor/2203/dbf796aa2576a284e4f3063ac9fa7fdb_1647839581_0505.jpg',
+    },
+    {
+        img:'https://t3.ftcdn.net/jpg/01/15/54/72/360_F_115547270_KXnPVYP28qzo72sb4DD6HLs1FotBOSAY.jpg',
+    },
+    {
+        img:'https://media.istockphoto.com/id/1079932454/pt/foto/selfie-in-bedroom.jpg?s=612x612&w=0&k=20&c=GrrUEnxtYfqEUrC_qOVCckCjNGAx9ygZ8A07GngYqBM=',
+    },
+]
